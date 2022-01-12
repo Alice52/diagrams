@@ -97,29 +97,34 @@
                 <mxCell id="54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="41" target="49" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="41" value="创建型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="62" value="&lt;div style=&quot;text-align: left ; font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;解决对象创建问题:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;1. 复杂对象创建&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;2. 解耦对象创建和使用&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF3399;" vertex="1" connectable="0" parent="54">
+                    <mxGeometry x="-0.2138" y="1" relative="1" as="geometry">
+                        <mxPoint x="-1" y="10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="创建型(5)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="379" y="785" width="110" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="43" target="55" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="43" value="结构型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="43" value="结构型(7)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="529" y="785" width="110" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="44" target="57" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="44" value="行为型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="44" value="行为型(11)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="679" y="785" width="110" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="49" value="&lt;span&gt;单例 &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;原型&lt;/span&gt;&lt;br&gt;&lt;span&gt;工厂 &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;抽象工厂&lt;/span&gt;&lt;br&gt;&lt;span&gt;构建者&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-                    <mxGeometry x="369" y="895" width="130" height="100" as="geometry"/>
+                    <mxGeometry x="369" y="950" width="130" height="100" as="geometry"/>
                 </mxCell>
                 <mxCell id="55" value="代理&lt;br&gt;适配器 &amp;amp;装饰器&lt;br&gt;桥接 &amp;amp; 享元&lt;br&gt;外观 &amp;amp; 组合" style="ellipse;whiteSpace=wrap;html=1;rounded=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-                    <mxGeometry x="519" y="895" width="130" height="100" as="geometry"/>
+                    <mxGeometry x="519" y="950" width="130" height="100" as="geometry"/>
                 </mxCell>
                 <mxCell id="57" value="观模中策&lt;br&gt;访状解命&lt;br&gt;责迭备" style="ellipse;whiteSpace=wrap;html=1;rounded=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-                    <mxGeometry x="669" y="895" width="130" height="100" as="geometry"/>
+                    <mxGeometry x="669" y="950" width="130" height="100" as="geometry"/>
                 </mxCell>
                 <mxCell id="61" value="&lt;font color=&quot;#990000&quot;&gt;&amp;nbsp;1. 设计原则及模式的目的: 写出高质量代码&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#990000&quot;&gt;&amp;nbsp;2. OOP 的本质: 把代码放到合适的类型&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=14;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
                     <mxGeometry x="59" y="105" width="320" height="80" as="geometry"/>
