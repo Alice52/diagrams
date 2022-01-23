@@ -1,0 +1,530 @@
+<svg host="65bd71144e"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1612px" height="882px" viewBox="-0.5 -0.5 1612 882" content="&lt;mxfile&gt;&lt;diagram id=&quot;3o_hu940wl0Vgy0PNw_o&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+  <defs/>
+  <g>
+    <path d="M 341 131 Q 451 131 451 221 Q 451 311 554.63 311" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 559.88 311 L 552.88 314.5 L 554.63 311 L 552.88 307.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 281 161 Q 281 161 281 204.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 281 209.88 L 277.5 202.88 L 281 204.63 L 284.5 202.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <rect x="221" y="101" width="120" height="60" rx="9" ry="9" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 131px; margin-left: 222px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                计算机11
+                <br/>
+                <div style="text-align: left">
+                  <span>
+                                        ip: 192.168.1.11
+                  </span>
+                </div>
+                <div style="text-align: left">
+                  <span>
+                                        mask: 255.255.255.0
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="281" y="135" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    计算机11...
+        </text>
+      </switch>
+    </g>
+    <path d="M 341 511 Q 451 511 451 411 Q 451 311 554.63 311" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 559.88 311 L 552.88 314.5 L 554.63 311 L 552.88 307.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <rect x="221" y="481" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 511px; margin-left: 222px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                计算机12
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="281" y="515" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    计算机12
+        </text>
+      </switch>
+    </g>
+    <path d="M 1251 131 Q 1156 131 1156 221 Q 1156 311 1067.37 311" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 1062.12 311 L 1069.12 307.5 L 1067.37 311 L 1069.12 314.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <rect x="1251" y="101" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 131px; margin-left: 1252px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                计算机51
+                <br/>
+                                192.168.5.51
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="1311" y="135" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    计算机51...
+        </text>
+      </switch>
+    </g>
+    <path d="M 1251 511 Q 1156 511 1156 411 Q 1156 311 1067.37 311" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 1062.12 311 L 1069.12 307.5 L 1067.37 311 L 1069.12 314.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <rect x="1251" y="481" width="120" height="60" rx="9" ry="9" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 511px; margin-left: 1252px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                计算机52
+                <br/>
+                                192.168.5.52
+                <br/>
+                                mac:mac@5.52
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="1311" y="515" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    计算机52...
+        </text>
+      </switch>
+    </g>
+    <path d="M 641 311 Q 641 311 754.63 311" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 759.88 311 L 752.88 314.5 L 754.63 311 L 752.88 307.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 601 351 Q 601 351 601 469.63" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+    <path d="M 601 474.88 L 597.5 467.88 L 601 469.63 L 604.5 467.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 601 271 Q 601 226 601.09 187.37" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+    <path d="M 601.1 182.12 L 604.58 189.13 L 601.09 187.37 L 597.58 189.11 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 581 291 L 593.93 278.07 Q 601 271 608.07 278.07 L 633.93 303.93 Q 641 311 633.93 318.07 L 608.07 343.93 Q 601 351 593.93 343.93 L 568.07 318.07 Q 561 311 568.07 303.93 Z" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 311px; margin-left: 562px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                交换机
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="601" y="315" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    交换机
+        </text>
+      </switch>
+    </g>
+    <path d="M 791 281 Q 791 281 791 207.37" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+    <path d="M 791 202.12 L 794.5 209.12 L 791 207.37 L 787.5 209.12 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 981 311 Q 981 311 827.37 311" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 822.12 311 L 829.12 307.5 L 827.37 311 L 829.12 314.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 1001 291 L 1013.93 278.07 Q 1021 271 1028.07 278.07 L 1053.93 303.93 Q 1061 311 1053.93 318.07 L 1028.07 343.93 Q 1021 351 1013.93 343.93 L 988.07 318.07 Q 981 311 988.07 303.93 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 311px; margin-left: 982px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                交换机
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="1021" y="315" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    交换机
+        </text>
+      </switch>
+    </g>
+    <path d="M 221 1 L 427 1 L 431 5 L 431 51 L 221 51 L 221 1 Z" fill="#fff2cc" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 427 1 L 427 5 L 431 5" fill="none" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 208px; height: 1px; padding-top: 26px; margin-left: 222px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <div style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #666600; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                网络号: 192.168.1.0
+                <br/>
+                                默认网关: 192.168.1.1
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="326" y="30" fill="#666600" font-family="Helvetica" font-size="14px" text-anchor="middle">
+                    网络号: 192.168.1.0...
+        </text>
+      </switch>
+    </g>
+    <path d="M 1291 1 L 1397 1 L 1401 5 L 1401 51 L 1291 51 L 1291 1 Z" fill="#fff2cc" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 1397 1 L 1397 5 L 1401 5" fill="none" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 108px; height: 1px; padding-top: 26px; margin-left: 1292px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <div style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #666600; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                192.168.5.0
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="1346" y="30" fill="#666600" font-family="Helvetica" font-size="14px" text-anchor="middle">
+                    192.168.5.0
+        </text>
+      </switch>
+    </g>
+    <path d="M 221 281 Q 221 491 150.35 491 Q 79.7 491 79.72 693.55" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+    <path d="M 79.72 698.8 L 76.22 691.8 L 79.72 693.55 L 83.22 691.8 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <rect x="158.5" y="211" width="245" height="70" rx="10.5" ry="10.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 243px; height: 1px; padding-top: 246px; margin-left: 160px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                计算机11的路由表(网络层)
+                <br/>
+                <div style="text-align: left">
+                                    1. 192.168.1.0
+                  <font color="#ff0080">
+                                        0.0.0.0
+                  </font>
+                  <font color="#0000ff">
+                                        255.255.255.0
+                  </font>
+                                    eth0
+                </div>
+                <div style="text-align: left">
+                                    2. 0.0.0.0
+                  <font color="#ff0080">
+                                        192.168.1.1
+                  </font>
+                  <font color="#0000ff">
+                                        0.0.0.0
+                  </font>
+                                    eth0
+                </div>
+                <div>
+                                    计算机11的arp表(数据链路层)
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="281" y="250" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    计算机11的路由表(网络层)...
+        </text>
+      </switch>
+    </g>
+    <path d="M 716 391 Q 716 311 754.63 311" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 759.88 311 L 752.88 314.5 L 754.63 311 L 752.88 307.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 651 391 L 777 391 L 781 395 L 781 431 L 651 431 L 651 391 Z" fill="#fff2cc" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 777 391 L 777 395 L 781 395" fill="none" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 128px; height: 1px; padding-top: 411px; margin-left: 652px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <div style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #666600; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                网关: 192.168.1.1
+                <br/>
+                                MAC: mac@lyq1
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="716" y="415" fill="#666600" font-family="Helvetica" font-size="14px" text-anchor="middle">
+                    网关: 192.168.1.1...
+        </text>
+      </switch>
+    </g>
+    <path d="M 866 391 Q 866 311 827.37 311" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 822.12 311 L 829.12 307.5 L 827.37 311 L 829.12 314.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 801 391 L 927 391 L 931 395 L 931 431 L 801 431 L 801 391 Z" fill="#fff2cc" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 927 391 L 927 395 L 931 395" fill="none" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 128px; height: 1px; padding-top: 411px; margin-left: 802px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <div style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #666600; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                网关: 192.168.5.1
+                <br/>
+                                MAC: mac@lyq2
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="866" y="415" fill="#666600" font-family="Helvetica" font-size="14px" text-anchor="middle">
+                    网关: 192.168.5.1...
+        </text>
+      </switch>
+    </g>
+    <rect x="731" y="161" width="120" height="40" rx="6" ry="6" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 181px; margin-left: 732px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                为了连接不同的网段
+                <br/>
+                                网工的专业规划
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="791" y="185" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    为了连接不同的网段
+网工的专业规划
+        </text>
+      </switch>
+    </g>
+    <path d="M 981 701 L 1607 701 L 1611 705 L 1611 881 L 981 881 L 981 701 Z" fill="#fff2cc" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 1607 701 L 1607 705 L 1611 705" fill="none" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 628px; height: 1px; padding-top: 791px; margin-left: 983px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+              <div style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #666600; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                从 计算机11 发生的请求:
+                <br/>
+                                1. jsj11 的数据包目标IP为192.168.5.52
+                <br/>
+                                2. 在网络层遍历发现本地不能处理, 之后则找到下一跳(默认网关)[192.168.1.1]
+                <br/>
+                                3. 在数据链路层表中找到 MAC 地址并发送给交换机, 之后转给路由器(去掉交换机的MAC, 添加路由器的MAC并发送)
+                <br/>
+                                4. 路由器会发现目标IP为 192.168.5.52 则遍历本地路由表, 且目标IP192.168.5.52 可以通过arp表找到对应的mac地址[
+                <span style="color: rgb(0 , 0 , 0) ; font-size: 12px ; text-align: center">
+                                    mac@5.52
+                </span>
+                                ], 发送到目标jsj52
+                <br/>
+                                5. jsj52 解析获取端口号等信息, 进行处理
+                <br/>
+                                6. 处理完之后将数据包发回去
+                <br/>
+                <font color="#ff0080">
+                                    7. 每跳一下源MAC地址和目标MAC地址都会替换
+                </font>
+                <br/>
+                <span style="color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px">
+                                    2.%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%BD%91%E5%85%B3%3A%20192.168.1.1%22%20style%3D%22shape%3Dnote%3BstrokeWidth%3D2%3BfontSize%3D14%3Bsize%3D4%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23fff2cc%3BstrokeColor%3D%23d6b656%3BfontColor%3D%23666600%3Brounded%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22550%22%20y%3D%22460%22%20width%3D%22130%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3
+                </span>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="983" y="795" fill="#666600" font-family="Helvetica" font-size="14px">
+                    从 计算机11 发生的请求:...
+        </text>
+      </switch>
+    </g>
+    <path d="M 1 701 L 637 701 L 641 705 L 641 881 L 1 881 L 1 701 Z" fill="#fff2cc" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 637 701 L 637 705 L 641 705" fill="none" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 638px; height: 1px; padding-top: 791px; margin-left: 3px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+              <div style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #666600; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                jsj11 的 arp 的mac和ip的映射表在开机时是空的
+                <br/>
+                                1. 此时会jsj11发送 arp 数据包(必须有IP+MAC): 目标mac地址是 FFFFFF, 目标 IP 地址为 192.168.1.1
+                <br/>
+                                2. 交换机发现为特殊mac, 会广播该数据包
+                <br/>
+                                - jsj12 发现目标地址不止自己的地址则直接忽略忽略
+                <br/>
+                                - 路由器发现目标地址是自己的, 会响应该数据包: 发送一个jsj11的 mac 地址, 目标 IP 地址为 192.168.1.11的数据包
+                <br/>
+                                3. 交换机学习一下, 直接转发给 192.168.1.11
+                <br/>
+                                4. jsj11 则学习到一条  IP 到 MAC 的记录
+                <br/>
+                                - 192.168.1.1 --&gt;
+                <span style="text-align: center">
+                                    mac@lyq1
+                </span>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="3" y="795" fill="#666600" font-family="Helvetica" font-size="14px">
+                    jsj11 的 arp 的mac和ip的映射表在开机时是空的...
+        </text>
+      </switch>
+    </g>
+    <path d="M 503.5 476 L 694.5 476 L 698.5 480 L 698.5 546 L 503.5 546 L 503.5 476 Z" fill="#fff2cc" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 694.5 476 L 694.5 480 L 698.5 480" fill="none" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 193px; height: 1px; padding-top: 511px; margin-left: 506px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+              <div style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #666600; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                交换机发现数据包的目标mac是FFFFFF, 则会广播这个地址
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="506" y="515" fill="#666600" font-family="Helvetica" font-size="14px">
+                    交换机发现数据包的目标mac是FFFFFF, 则会广播这个地址
+        </text>
+      </switch>
+    </g>
+    <path d="M 482.25 111 L 715.75 111 L 719.75 115 L 719.75 181 L 482.25 181 L 482.25 111 Z" fill="#fff2cc" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 715.75 111 L 715.75 115 L 719.75 115" fill="none" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 236px; height: 1px; padding-top: 146px; margin-left: 484px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+              <div style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #666600; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                二层的没有路由表: 连接同一局域网
+                <br/>
+                                学习: port --&gt; mac 的表
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="484" y="150" fill="#666600" font-family="Helvetica" font-size="14px">
+                    二层的没有路由表: 连接同一局域网...
+        </text>
+      </switch>
+    </g>
+    <ellipse cx="791" cy="311" rx="30" ry="30" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 311px; margin-left: 762px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                路由器
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="791" y="315" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    路由器
+        </text>
+      </switch>
+    </g>
+    <ellipse cx="801" cy="321" rx="30" ry="30" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 321px; margin-left: 772px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                路由器
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="801" y="325" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    路由器
+        </text>
+      </switch>
+    </g>
+    <ellipse cx="811" cy="331" rx="30" ry="30" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 331px; margin-left: 782px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                路由器
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="811" y="335" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    路由器
+        </text>
+      </switch>
+    </g>
+    <path d="M 811 361 Q 811 361 811 554.63" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+    <path d="M 811 559.88 L 807.5 552.88 L 811 554.63 L 814.5 552.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 811 631 Q 811 651 811.04 654.63" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+    <path d="M 811.09 659.88 L 807.52 652.92 L 811.04 654.63 L 814.52 652.85 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <rect x="688.5" y="561" width="245" height="70" rx="10.5" ry="10.5" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 243px; height: 1px; padding-top: 596px; margin-left: 690px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                路由器的路由表(网络层)
+                <br/>
+                <div style="text-align: left">
+                                    1. 192.168.1.0
+                  <font color="#ff0080">
+                                        0.0.0.0
+                  </font>
+                  <font color="#0000ff">
+                                        255.255.255.0
+                  </font>
+                                    eth0
+                </div>
+                <div style="text-align: left">
+                                    2. 192.168.5.0
+                  <font color="#ff0080">
+                                        0.0.0.0
+                  </font>
+                                    255.255.255.0 eth0
+                </div>
+                <div style="text-align: left">
+                                    3. 192.168.8.0
+                  <font color="#ff0080">
+                                        1.9.5.8
+                  </font>
+                                    255.255.255.0 eth0
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="811" y="600" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    路由器的路由表(网络层)...
+        </text>
+      </switch>
+    </g>
+    <rect x="724.75" y="661" width="172.5" height="70" rx="10.5" ry="10.5" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 171px; height: 1px; padding-top: 696px; margin-left: 727px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                比如来了一个 192.168.8.52,
+                <br/>
+                                查找路由表发现下一跳IP为 1.9.5.8 会找到对应的mac发过去, 之后就是 1.9.5.8 处理
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="727" y="700" fill="#000000" font-family="Helvetica" font-size="12px">
+                    比如来了一个 192.168.8.52,...
+        </text>
+      </switch>
+    </g>
+  </g>
+  <switch>
+    <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+    <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+      <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+      </text>
+    </a>
+  </switch>
+</svg>
