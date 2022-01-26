@@ -1,0 +1,243 @@
+<svg host="65bd71144e"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="762px" height="872px" viewBox="-0.5 -0.5 762 872" content="&lt;mxfile&gt;&lt;diagram id=&quot;B7io_0K_224jGYudSPZ3&quot; name=&quot;Page-1&quot;&gt;zVhLb+M2EP41BtqDDL1tH+NsvD1sgQI59LigKUpiQ5EqRfnRX9+hROttR9l44TUSifo4HA6/GQ5HWnjP2emrRHn6p4gIW7h2dFp4Xxauu/IDuGrgXANOsK6BRNLIQC3wSv8jBrQNWtKIFD1BJQRTNO+DWHBOsOphSEpx7IvFgvVnzVFCRsArRmyM/k0jldboOrBb/A9Ck/Qys2ObngxdhA1QpCgSxw7kvSy8ZymEqlvZ6Zkwzd2Fl3rc7kpvY5gkXM0ZsKkHHBArzdqMXep8WawUJY+IlncW3vaYUkVec4R17xG8C1iqMma6x/Mbkw5EKnLqQMaer0RkRMkziJhe70KjCQ7fN8/HlupVaLC0Q7O/MiAy7k0a3S0D0DAkTBPiThASMphhG9EDNBNVrXIERQK/EQkjyYlgHdrkYPGE8pPWVjXgbhVwkYQJFF1UgD23FV+gvRwiP3OoBb/ZwuxQzJZteJIl14xQFemblUt6oIwkVaApCeRrlBPt24q+7xGJUQnqKhxlWgAmtmyn4jShBXh6ibkFW4onKaJLxOi55LhYYpGBXfCISVBFgjGryBHvxXr4bykqwhB+S6q4t7BgQi68Jz1Jsv9Nxyb8QRjZQdg0Q+933dYLtgcDXL8Vc/112w7sdkwsuLJilFF2rkfWMpdriLK8EvQ8X5sd60wiuBj1XB+TEc4+Ig+ZsxAMFR8YwuieSKSo4O+ap3uLKof0GCiqRK/X77j5qXVHEzuwp2h+KFCUWatlCKLAoxYOlxEJArRxO2FYO/eDYU9jWHhME72PVQq2PWmPOSt36TpLe1nl8Z0TztdXW6tjVi/LUkNtMIHdJAb5I3rRTb1ymIosvTbrqOV/8mw/ONknk9b8rPWJicz6ZkqjXBNGeaFQfdTkpaKssHLKK37OszXhqNpCu1wKrEP8DGGz0znS3YGPfLjp8IVbFbxtontXMcGpqL3U7msjCwVT/p0mXEjyUXXuNXWIc0iueL7CT/iqs6UhA3pP3mhD28Bghoq3KisHy87/7UmG6KBugnMo100uFNFZW0nx1pSLUP9sdc4zta1T5fW6XaXEd8qsmDL2XB80MJUXx7GLcTNJpycK9yEcVPVkHTyEn964WzgVEw4YI3G7ik/Vb74X9Ou3cfkWehPlm3eP8s0blW+d4qSNniYA1g8vd/1BuRs4Y74cd4IvJ7gDX/6Ir15um2DMfzhj4eaRjAUfZix8OGMb55GMhSPG+vn3KjkzEuEdyFm5fXJCd0zOeoIb9w7UrH5taoa5aYqaybi5BzfrX5ubjfe4sHGc0fJJlJBX8yikSkUiOGIvLbrtE9TKfBMiN7T8Q5Q6m5IElUrMJK0QpcSDT3QKyYRcTvYa0ibeZFYSBu+Ph/5Htk/xdP1rjq6HFlPv/sM3UX/qTRSXko3qyKYqrHVfKQs1C9/QnrA+uZc6DAO5BIq0rY5EihF7Mh0ZjaLajwSsQ/tKn/ZkLihXFUnBdhF8mXbUtfBuvpEahYvuZ8ipsNdrdfxe5FvGv7PdZ5T/pQ3vHOv9/eT1x4s4LvSLzsD5jYHz4sG+nVPq99gHJ5a13ydiPXFY3ymxwGP7qbnms/1e7738Dw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="401" width="760" height="470" rx="70.5" ry="70.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <path d="M 85 1 L 695 1 L 715 21 L 715 371 L 85 371 L 85 1 Z" fill="#fff2cc" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 695 1 L 695 21 L 715 21" fill="none" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 628px; height: 1px; padding-top: 186px; margin-left: 87px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #666600; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <div>
+                                    <div>
+                                        docker exec dev-nginx2 nginx -s reload
+                                    </div>
+                                    <div>
+                                        <br/>
+                                    </div>
+                                    <div>
+                                        <br/>
+                                    </div>
+                                    <div>
+                                        ----
+                                    </div>
+                                    <div>
+                                        lvs
+                                    </div>
+                                    <div>
+                                        docker run -itd --privileged=true --net=nginx_default --name lvs-01 registry.cn-shanghai.aliyuncs.com/alice52/
+                                        <span style="background-color: rgb(50 , 56 , 63) ; color: rgb(246 , 248 , 250) ; font-family: , , &quot;sf mono&quot; , &quot;menlo&quot; , &quot;consolas&quot; , &quot;liberation mono&quot; , monospace ; font-size: 12px">
+                                            dev-ipvsadm-7.6:20220126.de55a92
+                                        </span>
+                                    </div>
+                                    <div>
+                                        ifconfig eth0:8 172.21.0.100/16
+                                    </div>
+                                    <div>
+                                        ipvsadm -A -t 172.21.0.100:80 -s rr
+                                    </div>
+                                    <div>
+                                        ipvsadm -a -t 172.21.0.100:80 -r dev-nginx2 -g -w 1
+                                    </div>
+                                    <div>
+                                        ipvsadm -a -t 172.21.0.100:80 -r dev-nginx -g -w 1
+                                    </div>
+                                    <div>
+                                        <br/>
+                                    </div>
+                                    <div>
+                                        -----
+                                    </div>
+                                    <div>
+                                        <br/>
+                                    </div>
+                                    <div>
+                                        nginx
+                                    </div>
+                                    <div>
+                                        apt install iputils-ping -y
+                                    </div>
+                                    <div>
+                                        cd /proc/sys/net/ipv4/conf/eth0/
+                                    </div>
+                                    <div>
+                                        echo 1 &gt; arp_ignore
+                                    </div>
+                                    <div>
+                                        echo 2 &gt; arp_announce
+                                    </div>
+                                    <div>
+                                        <br/>
+                                    </div>
+                                    <div>
+                                        ifconfig lo:3 172.21.0.100 netmask 255.255.255.255
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="87" y="190" fill="#666600" font-family="Helvetica" font-size="14px">
+                    docker exec dev-nginx2 nginx -s reload...
+                </text>
+            </switch>
+        </g>
+        <rect x="100" y="471" width="120" height="150" rx="18" ry="18" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 546px; margin-left: 101px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                lvs
+                                <br/>
+                                172.21.0.8
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="160" y="550" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    lvs...
+                </text>
+            </switch>
+        </g>
+        <rect x="340" y="471" width="120" height="150" rx="18" ry="18" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 546px; margin-left: 341px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                nginx
+                                <br/>
+                                172.21.0.4
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="400" y="550" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    nginx...
+                </text>
+            </switch>
+        </g>
+        <rect x="560" y="471" width="120" height="150" rx="18" ry="18" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 546px; margin-left: 561px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                nginx
+                                <br/>
+                                172.21.0.6
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="620" y="550" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    nginx...
+                </text>
+            </switch>
+        </g>
+        <rect x="370" y="581" width="80" height="20" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 591px; margin-left: 371px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                172.21.0.100
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="410" y="595" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    172.21.0.100
+                </text>
+            </switch>
+        </g>
+        <rect x="100" y="581" width="120" height="20" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 591px; margin-left: 101px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                172.21.0.100
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="160" y="595" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    172.21.0.100
+                </text>
+            </switch>
+        </g>
+        <rect x="580" y="581" width="80" height="20" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 591px; margin-left: 581px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                172.21.0.100
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="620" y="595" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    172.21.0.100
+                </text>
+            </switch>
+        </g>
+        <path d="M 490 781 L 160 781 L 160 627.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 160 622.12 L 163.5 629.12 L 160 627.37 L 156.5 629.12 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 781px; margin-left: 280px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                <font style="font-size: 14px">
+                                    curl 172.21.0.100
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="280" y="785" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    curl 172.21.0.100
+                </text>
+            </switch>
+        </g>
+        <rect x="490" y="771" width="80" height="20" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 781px; margin-left: 491px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                172.21.0.100:80
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="530" y="785" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    172.21.0.100:...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
