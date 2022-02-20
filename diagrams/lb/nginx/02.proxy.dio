@@ -58,34 +58,103 @@
                 <mxCell id="19" value="服务集群" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="300" y="440" width="100" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="VPN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="20" value="VPN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="615" y="580" width="100" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="21" target="2">
+                <mxCell id="22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="21" target="2" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21" target="11">
+                <mxCell id="23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="21" target="11" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21" target="25">
+                <mxCell id="26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="21" target="25" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="21" target="29">
+                <mxCell id="28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="21" target="29" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="75" y="475" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="21" value="视角不同" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="21" value="视角不同" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="25" y="350" width="100" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="以服务端视角&lt;br&gt;就叫反向代理" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                <mxCell id="25" value="以服务端视角&lt;br&gt;就叫反向代理" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
                     <mxGeometry x="20" y="220" width="110" height="65" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="以用户端视角&lt;br&gt;就叫正向代理" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                <mxCell id="29" value="以用户端视角&lt;br&gt;就叫正向代理" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
                     <mxGeometry x="20" y="470" width="110" height="65" as="geometry"/>
                 </mxCell>
-                <mxCell id="30" value="负载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="30" value="负载" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="615" y="280" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="31" target="32">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="location" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="720" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="32" target="34">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="proxy_pass" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="720" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="后面的路径会替换location 中的值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="720" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="&amp;nbsp; 172.0.0.1/a/b/c&amp;nbsp; =&amp;gt; 172.0.0.1/www/b/c&lt;br&gt;&amp;nbsp; location /a {&lt;br&gt;&lt;span&gt;&#9;&lt;/span&gt;&lt;span&gt;&#9;&lt;/span&gt;&lt;span&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;proxy_pass http://up-server/www;&lt;br&gt;&amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; 172.0.0.1/a/b/c&amp;nbsp; =&amp;gt; 172.0.0.1/a/b/c&lt;br&gt;&amp;nbsp; location /a {&lt;br&gt;&lt;span&gt;&#9;&lt;/span&gt;&lt;span&gt;&#9;&lt;/span&gt;&lt;span&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;proxy_pass http://up-server;&lt;br&gt;&amp;nbsp; }" style="shape=note;strokeWidth=2;fontSize=14;size=10;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="810" width="320" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37" target="38">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37" target="42">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="nginx 反向代理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="1310" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="38" target="40">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="七层代理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="285" y="1220" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40" target="44">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="uptream.dio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="475" y="1220" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="42" target="46">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="42" target="48">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="42" target="50">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="四层代理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="285" y="1360" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="以http为例: 11 阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="665" y="1220" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="stream: 7 阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="475" y="1360" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="tcp 四层代理&lt;br&gt;&lt;font color=&quot;#ff0080&quot;&gt;可靠&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="1520" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="50" target="52">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="udp 四层代理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="1520" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="实时的视频会议&lt;br&gt;会丢帧但是可以接受" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="355" y="1640" width="120" height="40" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
