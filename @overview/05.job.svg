@@ -1,4 +1,6 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="691px" height="601px" viewBox="-0.5 -0.5 691 601" content="&lt;mxfile&gt;&lt;diagram id=&quot;pmBYAAp4R2VebS1x48Pf&quot; name=&quot;Page-1&quot;&gt;5ZlBc6MgGIZ/DcftqCjRY0xM97B76mG7px2qRGmJpIiN6a9fMBi1pp1OktpMe0ngBRQePl5QAZytqmuB19lvnhAGHCupAJwDx5kgW/1qYWuEwNoJqaDJTrJb4YY+EyM21UqakKJXUXLOJF33xZjnOYllT8NC8E2/2pKz/l3XOCUD4SbGbKj+oYnMdqrvWa3+k9A0a+5sW6ZkhZvKRigynPBNR4IRgDPBudylVtWMMM2u4bJrt3ildN8xQXL5ngbursETZqUZm+mX3DaDJYkau8lyITOe8hyzqFVDwcs8IfqKtsq1dX5xvjbiPZFyayYSl5IrKZMrZkpVZ8X2VmWsJvNXZ668JjuvuoXzrckNR2sAFLwUsem/GZHEIiWmFtxJemSdZobQNeErou6iKgjCsKRP/VnHJnjSfb2Wr0oYxK/MzzF4u6AqKm876Q4mlWsp6cy2i+xouC8YHUPbHouuMwjme343AN6P1k1GJblZ47r/G+VWfeBLytiMMy7qtnC5XDpxrPRCCv5AOiUJukMeeismn4iQpHoz3kxp4yPGHd3GPTat1+wdJev4jGudzjD46gEKhwHqjbX6rW8IF40F1/2GcG04El04sNaErkheUJ6fZrBnsEtn0vfLvQ92/dL+IL/0hgeoCIFgAkIEoqBOuCDyQTgH0+jTUbluH5XtjYgKHUDlgTCsUe2ZubUS6iJ/Cqb2xTEbNbzsA9BOs7lRLctuns66njXWdut8+e32IN5gLLxf/lnmEN7xHhUbo+qufMRUN0KsjUaQZa2ix1K/LFBkpX77MdU3cBZ3jKdXcZHkV7nqubNgNN+U/xzLQvWPUrCQNFZz4iwSIjFlhUrZDkIQQt9vL6tSaf2vNjPfAn6gjTmIgB82vdHX2tc6g1kPnPnAPL37LICcMc16eEqqtzEf+Kje6lQC1okZ8Bf1qcBqFLXVoU+n93Krg3BMev6Zt7ojF713wFMnYy364XHysVQr9fniQsMbdWFNBliqiv04+e3OGbgg+JlcggGXYi1onmomcZaU2t8vLHBGdWRnuImqJVuona8gWMSZKrqEIHrJaGJ/HCOVbT8v1GWdbzQw+g8=&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="691px" height="601px" viewBox="-0.5 -0.5 691 601" content="&lt;mxfile&gt;&lt;diagram id=&quot;pmBYAAp4R2VebS1x48Pf&quot; name=&quot;Page-1&quot;&gt;3ZlBc6IwGIZ/TY7bgQQiHkWxe9g99bDd006ECOlGYkOo2F+/AYNAsZ3OqtDxosmbBJKHL+8XEaD5priXZJv8FBHlAFpRAdACQGhj6OmvUtkbxXbhQYkli4zWCA/slRrRMmrOIpp1OiohuGLbrhiKNKWh6mhESrHrdlsL3r3rlsS0JzyEhPfVXyxSyUH1XKvRv1MWJ/Wdbcu0bEjd2QhZQiKxa0koAGguhVCH0qaYU17Sq7kcxi3faT1OTNJUfWaAcxjwQnhu1mbmpfb1Ymmk126qQqpExCIlPGhUX4o8jWh5RVvXmj4/hNga8YkqtTcPkuRKaClRG25a9WTl/lFXrLryu6zcuXV1UbQbF3tT66/WAMhELkMzf7MiRWRMTS90kMqVtYYZQvdUbKi+i+4gKSeKvXSfOjHBEx/7NXx1wSB+5/n8D942qIKpx1a5hUnXGkplZd9GNiBc2x6LLuwF85NY9YB3o3WXMEUftqRa0E77VRf4mnE+F1zIaixar9cwDLWeKSn+0lZLhFfYxR9he6FS0eJDIqa19hFjj07tHrvGa46OkrR8xrHOZzi9sQBF/QB1R9v91u3DxaPBdW4frj1a4kI9a43YhqYZE+l5BnsBu4STrl8efbDtl/aV/NLtH6ACDKYT4GMQTKuCAwIP+AswCy6bi7yQns5FK8913A/j7PNwHacL13YHhItPwHWB71dwj5SdSvHLJm8GZvZ5lK/AbNCAtE9AO88Yr2ly9WGx43KjJWh4awn6JN7paHhv7dfPKbxwtJ8/9Ww6Ox9zPS+flEYj6bpS8XNevl7QZFX5vmRW3gAuV1zEd2EWpXepXgpccpbu8j/QsnD1oRUiFQv1M4HLiCrCeKZLNsQYIeR5zWV1Ka6+dfrzLOBNS2OeBsDz69mU1zr2Gtus354eMBzSrPvnqiqNecDDVarTBVQV5sBbVucIq1Z0qsOj03ub6hAakp534VT3uU3vnvDUyWibvn8Afc71Tn39cqHhDrqxJj0sRcG/nf0+6AJcMBqTy7THJdtKlsYlkzCJ8tLfv1jgDOrIsJ9E9ZbNdObLKJFhopu+QhC9ZTSxr8dIV5s/JKq21v86KPgH&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
         <path d="M 100 270 L 150 270 Q 160 270 160 260 L 160 120 Q 160 110 170 110 L 213.63 110" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
@@ -45,7 +47,7 @@
                 </text>
             </switch>
         </g>
-        <rect x="390" y="0" width="110" height="40" rx="6" ry="6" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="390" y="0" width="110" height="40" rx="6" ry="6" fill="#f8cecc" stroke="#b85450" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
@@ -196,7 +198,7 @@
         <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
         <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
             <text text-anchor="middle" font-size="10px" x="50%" y="100%">
-                Viewer does not support full SVG 1.1
+                Text is not SVG - cannot display
             </text>
         </a>
     </switch>
